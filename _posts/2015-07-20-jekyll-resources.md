@@ -119,7 +119,7 @@ A [comment on stackoverflow](http://stackoverflow.com/questions/19331362/using-a
 and then to call this template with 
 
 ~~~{.}
-{% include image.html url="/assets/my-cat.jpg" description="My cat, Robert Downey Jr." class="some class" %}
+![My cat, Robert Downey Jr.](/assets/my-cat.jpg)
 ~~~
 
 The regex to replace existing markdown image links with the new liquid ones is:

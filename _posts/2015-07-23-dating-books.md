@@ -20,7 +20,7 @@ I am currently preparing my thesis for publication and the process of revision, 
 
 <!--more-->
 
-{% include image.html url="/assets/nawfal-dustur-v2-imprint.jpg" description="Imprint of the second volume of *al-dustūr" %}
+![Imprint of the second volume of *al-dustūr](/assets/nawfal-dustur-v2-imprint.jpg)
 
 The date of publication is clearly stated as the year 1301. The calendar of this dating could either be Muslim 1301 (*hijrī*), which would translate to 1883/84 Gregorian, or Ottoman 1301 (*mālī*), which began on 13 March 1885. So far, so common and without further ado---and I strongly suspect without further thought---the [world's libraries](http://www.worldcat.org/oclc/11351292/editions?editionsView=true&referer=di "link to worldcat") catalogued the book as having been publised in 1883. The content of the book as well as the publishing house---*al-Maṭbaʿa al-Adabiyya* was a venture by Khalīl Sarkīs[^4], the Greek Orthodox owner of Beirut's most successful periodical and only daily newspaper <!-- was it already a daily in 1887? --> *Lisān al-Ḥāl*---raise the probability for *mālī* reckoning. 
 
@@ -28,7 +28,7 @@ Then I came across announcements of its publication in the Beiruti press. Both *
 
 Unlike the [first volume](http://hdl.handle.net/2027/inu.30000088981760), scans of the second cannot be found online, but I was lucky to locate a copy at the  library of the American University of Beirut. To my surprise the volume carried an ownership stamp on its last page:
 
-{% include image.html url="/assets/nawfal-dustur-v2-stamp.jpg" description="Ownership stamp of Librairie Universelle Beyrouth" %}
+![Ownership stamp of Librairie Universelle Beyrouth](/assets/nawfal-dustur-v2-stamp.jpg)
 
 It reads in French and Arabic:
 
@@ -44,7 +44,7 @@ For the moment this question must remain as open as the opening date of the ende
 
 I was lucky to have a one-month trial access to Gale's new "[Early Arabic Printed Books from the British Library](http://www.gale.com/primary-sources/early-arabic-printed-books-from-the-british-library/)" platform and eagerly browsed and searched for books from Beirut and Damascus. They hold a number of Niqūlā Efendi Naqqāsh's translations of Ottoman laws. One of them, a translation of Orhan Vahan Efendi's comment on the Commercial Code,[^5] carried another ownership stamp:
 
-{% include image.html url="/assets/naqqash-1880-sharh-stamp.jpg" description="Ownership stamp of Librairie Générale Beyrouth" %}
+![Ownership stamp of Librairie Générale Beyrouth](/assets/naqqash-1880-sharh-stamp.jpg)
 
 >Librairie générale <lb/> A. Sader Beyrouth
 
@@ -56,7 +56,7 @@ But this time we are better informed about the publisher *al-Maktaba al-ʿUmūmi
 
 In May this year, I participated in a conference titled ["Books in Motion" in Beirut]({% post_url 2016-05-10-presentation-books-in-motion %}) and had a chance to finally meet Hala Auji and listen to her talk on "Visual Translations: The Shifting Material Dimensions of 19th-Century Printed Editions of Arabic Classics" --- which was based on research conducted for her recently published book.[^6] Her talk focussed on the gradual shift from manuscript to print culture between Cairo, Beirut, and India and its visual aspects. Talking about the continuous popularity of al-Mutanabbī's *Dīwān* and the plethora of editions published during the late 19th century, she projected the image of an edition held at Harvard's Widener Library. According to Hala Auji this *Dīwān* was printed in Calcutta but the frontispiece carries the same stamp of Ibrāhīm Ṣādir's *al-Maktaba al-ʿUmūmiyya*:
 
-{% include image.html url="/assets/mutanabbi-1866-diwan-stamp.jpg" description="Ownership stamp of Librairie Générale Beyrouth. Courtesy of Hala Auji" %}
+![Ownership stamp of Librairie Générale Beyrouth. Courtesy of Hala Auji](/assets/mutanabbi-1866-diwan-stamp.jpg)
 
 It is not entirely clear how Auji arrived at the conclusion that this edition was printed in Calcutta. Comparing the frontispieces it seems that a copy at University of Michigan, [freely available through HathiTrust](http://hdl.handle.net/2027/mdp.39015024525357), is indeed the same edition. [Its final page (292)](http://hdl.handle.net/2027/mdp.39015024525357?urlappend=%3Bseq=298) states that Shaykh ʿUmar al-Rāfiʿī confirms the veracity of this print edition that was completed in 1283 aH [1866]. According to Ilyān Sarkīs' union catalogue of Arabic printed works (*[Muʿjam al-maṭbūʿat al-ʿarabiyya wa-l-muʿarraba](http://shamela.ws/browse.php/book-1242#page-1622 "full text at shamela.ws")*) this edition of 292 pages was printed on a lithographic printing press in Cairo.[^7]
 

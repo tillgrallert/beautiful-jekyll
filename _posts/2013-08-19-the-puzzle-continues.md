@@ -76,24 +76,24 @@ The examples below show that *al-Muqtaṭaf* was published in a large (*kabīr*)
 
 Held by Princeton University Library (<a href="http://hdl.handle.net/2027/njp.32101007749409" target="new">Hathitrust</a>)
         
-{% include image.html url="/assets/muqtataf/v07/i01/pr02/up/muqtataf-v07-i01-pr02-up-p0015s1.jpg" description="facsimile page 15" %}
+![facsimile page 15](/assets/muqtataf/v07/i01/pr02/up/muqtataf-v07-i01-pr02-up-p0015s1.jpg)
 
-{% include image.html url="/assets/muqtataf/v07/i01/pr02/up/muqtataf-v07-i01-pr02-up-p0016s1.jpg" description="facsimile page 16" %}
+![facsimile page 16](/assets/muqtataf/v07/i01/pr02/up/muqtataf-v07-i01-pr02-up-p0016s1.jpg)
 
-{% include image.html url="/assets/muqtataf/v07/i01/pr02/up/muqtataf-v07-i01-pr02-up-p0017s1.jpg" description="facsimile page 17" %} 
+![facsimile page 17](/assets/muqtataf/v07/i01/pr02/up/muqtataf-v07-i01-pr02-up-p0017s1.jpg)
 
-{% include image.html url="/assets/muqtataf/v07/i01/pr02/up/muqtataf-v07-i01-pr02-up-p0018s1.jpg" description="facsimile page 18" %}
+![facsimile page 18](/assets/muqtataf/v07/i01/pr02/up/muqtataf-v07-i01-pr02-up-p0018s1.jpg)
     
 ### Edition 2: "Large" version of 64 pages.
 
 Held by the Orient Institut Beirut
 
-{% include image.html url="/assets/muqtataf/v07/i01/pr01/oib/muqtataf-v07-i01-pr01-oib-p0015s1.jpg" description="facsimile page 15" %}
+![facsimile page 15](/assets/muqtataf/v07/i01/pr01/oib/muqtataf-v07-i01-pr01-oib-p0015s1.jpg)
 
 
-{% include image.html url="/assets/muqtataf/v07/i01/pr01/oib/muqtataf-v07-i01-pr01-oib-p0016s1.jpg" description="facsimile page 16" %}
+![facsimile page 16](/assets/muqtataf/v07/i01/pr01/oib/muqtataf-v07-i01-pr01-oib-p0016s1.jpg)
 
 
-{% include image.html url="/assets/muqtataf/v07/i01/pr01/oib/muqtataf-v07-i01-pr01-oib-p0017s1.jpg" description="facsimile page 17" %}
+![facsimile page 17](/assets/muqtataf/v07/i01/pr01/oib/muqtataf-v07-i01-pr01-oib-p0017s1.jpg)
 
-{% include image.html url="/assets/muqtataf/v07/i01/pr01/oib/muqtataf-v07-i01-pr01-oib-p0049s1.jpg" description="facsimile page 18" %} -->
+![facsimile page 18](/assets/muqtataf/v07/i01/pr01/oib/muqtataf-v07-i01-pr01-oib-p0049s1.jpg) -->
